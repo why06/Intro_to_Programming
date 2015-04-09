@@ -13,13 +13,14 @@ complete the entire workload from this ungergraduate class in the cloud using
 Cloud 9 as my platform of choice.
 
 #Modules Completed
-#MODULES                |   COMPLETED?
--Module 1               |       √    
-  Assignment 1          |       √
-  Assignment 2          |       √
--Module 2               |       √
-  Assignment 1          |       √
-  Assignment 2          |       √
--Module 3               |       √
-  Assignment 1          |       √
-  Assignment 2          |       √
+|  MODULES               |   COMPLETED?     |
+|:----------------------:|:----------------:|
+|-Module 1               |       √          |
+|  Assignment 1          |       √          |
+|  Assignment 2          |       √          |
+|-Module 2               |       √          |
+|  Assignment 1          |       √          |
+|  Assignment 2          |       √          |
+|-Module 3               |       √          |
+|  Assignment 1          |       √          |
+|  Assignment 2          |       √          |
