@@ -1,0 +1,29 @@
+Program # 6
+
+Write a program that accepts two numbers – temperature and day of week (if it is Sunday 1, otherwise 2. Display the following, if:
+
+temperature < -10 and Sunday – Stay home.
+
+temperature < -10 and not Sunday – Stay home, but call work.
+
+temperature <= 0 (but >= -10) – Dress warm.
+
+temperature > 0 and Sunday – Play hard.
+
+temperature > 0 and not Sunday – Work hard.
+
+Hint: Use if and else if statements
+
+*** Sample output
+
+Please enter temperature: .5
+
+Is it Sunday(Yes=1, No=2)? 1
+
+Play hard.
+
+Please enter temperature: -8
+
+Is it Sunday(Yes=1, No=2)? 2
+
+Dress warm.
