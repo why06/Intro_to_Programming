@@ -16,11 +16,14 @@ Cloud 9 as my platform of choice.
 |  MODULES               |   COMPLETED?     |
 |:----------------------:|:----------------:|
 |-Module 1               |       √          |
-|  Assignment 1          |       √          |
-|  Assignment 2          |       √          |
+|  Assignment 1   #1     |       √          |
+|  Assignment 2   #2     |       √          |
 |-Module 2               |       √          |
-|  Assignment 1          |       √          |
-|  Assignment 2          |       √          |
+|  Assignment 1   #3     |       √          |
+|  Assignment 2   #4     |       √          |
 |-Module 3               |       √          |
-|  Assignment 1          |       √          |
-|  Assignment 2          |       X          |
+|  Assignment 1   #5     |       √          |
+|  Assignment 2   #6     |       √          |
+|-Module 4               |       √          |
+|  Assignment 1   #7     |       X          |  
+|  Assignment 2   #8     |       X          |

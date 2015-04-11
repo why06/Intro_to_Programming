@@ -47,5 +47,6 @@
     else if(temp > 0 && !isSunday)
         cout << "Work hard.";
         
+    cout <<endl;
     return 0;
  }
