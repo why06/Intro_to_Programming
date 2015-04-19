@@ -19,12 +19,7 @@ int main()
     
     //Prompt
     cout << "Please enter a character (m,t,s): ";
-    try{
-        cin >> charIn;
-    }catch(...){
-        cout << "Exception. character not entered.\n";
-        return 0;
-    }
+    cin >> charIn;
     
     //Output
     switch(charIn){
