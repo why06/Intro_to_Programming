@@ -25,5 +25,5 @@ Cloud 9 as my platform of choice.
 |  Assignment 1   #5     |       √          |
 |  Assignment 2   #6     |       √          |
 |-Module 4               |       √          |
-|  Assignment 1   #7     |       X          |  
-|  Assignment 2   #8     |       X          |
+|  Assignment 1   #7     |       √          |  
+|  Assignment 2   #8     |       √          |
