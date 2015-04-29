@@ -27,3 +27,7 @@ Cloud 9 as my platform of choice.
 |-Module 4               |       √          |
 |  Assignment 1   #7     |       √          |  
 |  Assignment 2   #8     |       √          |
+|-Module 5               |       √          |
+|  Assignment 1   #9     |       √          |  
+|  Extra Credit 1        |       X          |
+|  Extra Credit 2        |       X          |
