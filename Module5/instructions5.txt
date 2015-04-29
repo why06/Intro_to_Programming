@@ -1,0 +1,16 @@
+Program # 9
+
+Write a Java program that accepts a positive long integer between 2 to 15, and then using the number, calculate its factorial (n!). Using do-while statement, make sure it only accepts a valid number (between 2 and 15) – if an invalid number is entered, program should display the original instruction again, using while loop.
+
+Hint: all variables should be declared as long.
+
+Hint: After do-while loop for input validation, use for-loop to get the factorial
+
+*** Sample output
+
+
+Enter a between number 2 and 15:
+
+15
+
+Factorial of 15 is 1307674368000
